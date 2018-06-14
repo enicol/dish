@@ -1,1 +1,1 @@
-# React Boilerplate
+# Dish app
